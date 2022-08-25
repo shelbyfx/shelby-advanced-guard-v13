@@ -14,17 +14,17 @@ canım bayadır ortalıkta dolaşan bir dedikodu var işte url sekmesine girenle
 
 # Guardın Özellikleri:
 
-# • Url Koruma
+## • Url Koruma
 
-# • Taç Guard
+## • Taç Guard
 
-# • Kanal Koruma ( kategori dahil )
+## • Kanal Koruma ( kategori dahil )
 
-# • Rol Koruma
+## • Rol Koruma
 
-# • Chat Koruma
+## • Chat Koruma
 
-# • Offline Koruma
+## • Offline Koruma
 
 Guardın ekran görüntülerini gün içinde buraya yükleyeceğim 
 
