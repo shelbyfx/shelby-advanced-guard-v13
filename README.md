@@ -30,3 +30,8 @@ Guardın ekran görüntülerini gün içinde buraya yükleyeceğim
 
 ## ⚡ Contact
 
+<div align="center"> 
+
+     <a href="https://discord.com/users/998524641729589269" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/998524641729589269"></a> 
+
+ </div>
