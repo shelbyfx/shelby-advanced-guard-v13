@@ -30,18 +30,4 @@ Guardın ekran görüntülerini gün içinde buraya yükleyeceğim
 
 # BANA ULAŞ
 
-<div align="center">
 
-    <a href="https://discord.com/users/998524641729589269" title="Discord Profile"><img src="https://lanyard-profile-readme.vercel.app/api/998524641729589269"></a>
-
-</div>
-
-<div align="center">
-
-    <a href="https://discord.com/users/998524641729589269" target="_blank"><img src="https://img.shields.io/badge/-VorteX-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-    <a href="https://github.com/shelbyfx" target="_blank"><img src="https://img.shields.io/badge/-VorteX-black?style=for-the-badge&logo=github&logoColor=white"></a>
-
-    <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/-My%20Server-1e44ee?style=for-the-badge&logo=discord&logoColor=white"></a>
-
-</div>
