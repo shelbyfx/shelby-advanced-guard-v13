@@ -30,6 +30,6 @@ Guardın ekran görüntülerini gün içinde buraya yükleyeceğim
 
 ## ⚡ Contact
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/998524641729589269)](https://discord.com/users/998524641729589269)
+[![Discord Presence](https://lanyard.cnrad.dev/api/980068541405462528)](https://discord.com/users/980068541405462528)
 
 
